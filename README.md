@@ -73,7 +73,9 @@ Agora vamos adicionar um item ao nosso arquivo `dados.json` abra o arquivo faça
 
 <br>
 Código final tem que ficar assim ou similar:
+
 ```html 
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
