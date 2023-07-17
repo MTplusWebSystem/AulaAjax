@@ -61,8 +61,12 @@ Agora vamos adicionar um item ao nosso arquivo `dados.json` abra o arquivo faça
 ```
 # criando div de apresentação e estilo
 <br>
+
 ### DIV
+
 <img src="https://i.imgur.com/1ptEeU5.png" height='250'>
 <br>
+
 ### ESTILO
+
 <img src="https://i.imgur.com/IqWOJ3R.png" height='250'>
