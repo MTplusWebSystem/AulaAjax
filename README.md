@@ -7,7 +7,7 @@ dados.json
 <hr>
 Logo após abrirmos nosso index.html e adicionamos a teg html:
 
-```
+```html
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -24,11 +24,11 @@ Logo após abrirmos nosso index.html e adicionamos a teg html:
 ## Importação Jquery🛰
 
 Dentro da nossa teg `head` adicione:
-```
+```html 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 ```
 E logo a baixo do nosso `Body` abrimos e  fechamos a teg ``` <script> ``` o código deve ficar assim:
-```
+```html 
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -49,3 +49,13 @@ E logo a baixo do nosso `Body` abrimos e  fechamos a teg ``` <script> ``` o cód
 </script>
 
 </html>
+```
+
+# Dados 🎲 JSON 
+
+Agora vamos adicionar um item ao nosso arquivo `dados.json` abra o arquivo faça um código que se assimila com o meu:
+```json
+{
+  "text":"Bem-vindo a arte de codar "
+}
+```
