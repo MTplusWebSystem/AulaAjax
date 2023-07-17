@@ -6,6 +6,7 @@ dados.json
 ```
 <hr>
 Logo após abrirmos nosso index.html e adicionamos a teg html:
+
 ```
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -16,7 +17,8 @@ Logo após abrirmos nosso index.html e adicionamos a teg html:
 
 </head>
 <body>
-
+  
 </body>
 </html> 
 ```
+## Importação Jquery🛰
